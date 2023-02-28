@@ -1,0 +1,7 @@
+{
+  "name": "video-calls-frontend",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

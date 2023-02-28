@@ -1,0 +1,2 @@
+export const register_button_regular =  "flex justify-center w-full px-6 py-3 mt-4 text-red-500 border border-red-500 rounded-md md:mt-0 md:w-auto md:mx-2 "
+export const register_buttton_selected = "flex justify-center w-full  px-6 py-3 text-white bg-red-500 rounded-md md:w-auto md:mx-2 focus:outline-none shadow-lg"
